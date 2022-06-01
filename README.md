@@ -1,4 +1,6 @@
 # Emerson Santana
 
-## [Linkedin](https://www.linkedin.com/in/emerson-santana-dev/)
-## [Github](https://github.com/ESSantana)
+<ul>
+  <li><a href="https://www.linkedin.com/in/emerson-santana-dev/">Linkedin</a></li>
+  <li><a href="https://github.com/ESSantana">Github</a></li>
+</ul>
