@@ -1,4 +1,4 @@
-<h1 id="my-name" align="center">Oi, eu sou o Emerson!</h1>
+<h1 id="my-name" align="center">Oi, eu sou o Emerson!&ensp;Hi, I'm Emerson!</h1>
 
 <section id="links">
   <div align="center">
